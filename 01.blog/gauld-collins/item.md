@@ -1,6 +1,6 @@
 ---
 title: Stephen Collins och Tom Gauld på Edinburgh International Book Festival
-date: 19:12 04/24/2015
+date: 12:20 04/24/2015
 youtube: "https://www.youtube.com/embed/vssmlGzFwa4"
 taxonomy:
     category: blog
