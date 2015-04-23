@@ -3,7 +3,7 @@ title: Hemma hos Adèle
 date: 07:38 04/23/2015
 taxonomy:
     category: blog
-    tag: [tidskriften]
+    tag: [tidskriften, tardi, frankrike]
 ---
 På museumet i Semur-en-Auxois öppnades i går en utställning om seriefigurens Adèle Blanc-Sec.
 
