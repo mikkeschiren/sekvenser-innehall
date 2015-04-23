@@ -5,7 +5,7 @@ taxonomy:
     category: blog
     tag: [usa]
 ---
-När serien Alverfolket gavs ut i Sverige på åttiotalet var det en av de första albumserier som jag började följde, och jag har fortfarande kvar alla svenska utgåvor.
+När serien Alverfolket gavs ut i Sverige på åttiotalet var det en av de första albumserier som jag följde, och jag har fortfarande kvar alla svenska utgåvor.
 
 ===
 
