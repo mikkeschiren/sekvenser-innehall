@@ -1,6 +1,6 @@
 ---
 title: Första numret
-date: 17:34 04/22/2015
+date: 17:34 04/28/2015
 taxonomy:
     category: blog
     tag: [tidskriften]
