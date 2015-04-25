@@ -3,7 +3,7 @@ title: Intervju med Alan Moore på The Beat
 date: 08:15 04/27/2015
 taxonomy:
     category: blog
-    tag: [usa, clowes, bagge, groth, tcj]
+    tag: [usa, storbritannien, moore]
 ---
 
 Pádraig Ó Méalóid har gjort en intervju med Alan Moore som [_The Beat_](http://www.comicsbeat.com/) har publicerat i tre delar.

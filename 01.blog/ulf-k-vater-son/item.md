@@ -3,7 +3,7 @@ title: Återuppväckt tysk serie
 date: 19:30 04/25/2015
 taxonomy:
     category: blog
-    tag: [usa, clowes, bagge, groth, tcj]
+    tag: [ulf k, plauen, tyskland, lizano]
 ---
 
 [Vater und Sohn](http://vaterundsohn.de/) av serieskaparen [E. O. Plauen](http://e.o.plauen.de/) (signatur för Erich Ohser) var en en populär ordlös tysk serie som publicerades mellan 1934-1937.
