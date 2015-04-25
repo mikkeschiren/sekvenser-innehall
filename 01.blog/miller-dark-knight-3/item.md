@@ -3,7 +3,7 @@ title: Miller medförfattare till ny Dark Knight
 date: 10:30 04/25/2015
 taxonomy:
     category: blog
-    tag: [tidskriften, tardi, frankrike]
+    tag: [usa, miller, azzarello, dc, batman]
 ---
 Frank Miller är medförfattare till nya _The Dark Knight III: The master race_ som är en uppföljare till _The Dark Knight Returns_ från 1986. Miller kommer att skriva manuset tillsammans med Brian Azzarello, som är manusförfattare till bland annat _100 Bullets_.
 
