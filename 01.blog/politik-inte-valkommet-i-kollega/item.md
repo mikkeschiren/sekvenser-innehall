@@ -9,6 +9,7 @@ taxonomy:
 Det kan tyckas märkligt att en facklig tidskrift säger nej till satir för att den är politisk, men det är just vad tidningen Kollega har gjort under den nya chefredaktören Naljen Ståhlström.
 
 ===
+
 Satirtecknaren Max Gustafsson har medverkat i tidningen _Kollega_ sedan fyra år tillbaka, och det har aldrig varit något problem med politisk satir, tills nya chefredaktören Naljen Ståhlström anställdes.
 
 Innan Naljen Ståhlström började som chefredaktör för _Kollega_ har hon bland annat arbetat med _Gods och Gårdar_ och SAS:s tidning _Scanorama_. När Unionen anställde henne för att ta ansvar för deras medlemstidningen var det alltså klart att de anställde en utan några större erfarenheter från den fackliga världen, utan mer livsstil och lyxliv.
