@@ -9,7 +9,7 @@ taxonomy:
 
 ===
 
-Boken ges ut av amerikanska Magnetic Press, som bland annat publicerade den väldigt fina utgåvan av Doomboy. Den nya boken, [A glanced backward](http://magneticpress.bigcartel.com/product/a-glance-backward-by-pierre-paquet-and-tony-sandoval), utkommer i slutet av maj.
+Boken ges ut av amerikanska Magnetic Press, som bland annat publicerade den väldigt fina utgåvan av Doomboy. Den nya boken, [A glanced backward](http://magneticpress.bigcartel.com/product/a-glance-backward-by-pierre-paquet-and-tony-sandoval), utkommer i slutet av maj. På svenska finns _Liket och soffan_ utgivet av Epix förra året (nästan omöjlig att få tag på, men kolla med science fiction bokhandeln).
 
 ##Utdrag
 ![En sida ur A glance backward](AGlanceBackward_previewpages_1.jpg)
