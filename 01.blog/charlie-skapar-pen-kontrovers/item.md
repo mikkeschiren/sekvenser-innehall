@@ -10,11 +10,11 @@ Med anledning av att PEN American Center valt att ge sitt årliga pris för yttr
 
 ===
 
-Författarna har lite olika skäl att hoppa av, en av dem anser att Charlie Hebdo står för kulturell intolerans och en påtvingad sekulariserad syn, en annan tycker att det som hände i Paris var fruktansvärt, men att det inte är något som berör yttrandefrihet i USA.
+Författarna har lite olika skäl att hoppa av, en av dem anser att _Charlie Hebdo_ står för kulturell intolerans och en påtvingad sekulariserad syn, en annan tycker att det som hände i Paris var fruktansvärt, men att det inte är något som berör yttrandefrihet i USA.
 
-Litterärar värdar på PEN-galan ger den lite extra tyngd, och ett 30-tal författare ska medverka på den årliga galan. Priset till _Charlie_ kommer mottas av Jean-Baptiste Thoret, tidningen nuvarande chefredaktör.
+Litterärar värdar på PEN-galan ger den lite extra tyngd, och ett 30-tal författare ska medverka på den årliga galan. Priset till _Charlie_ kommer mottas av Jean-Baptiste Thoret, tidningens nuvarande chefredaktör.
 
-Det är helt klart att de amerikanska författarnas bojkott verkar bygga på lika oklara grunder som många i den svenska vänstern och svenska liberaler drivit mot _Charlie Hedbo_, man har helt enkelt vetat för lite om den tidning som man sagt sig vara emot. Jag har inga problem med att man är kritisk mot _Charlie_, det finns det flera skäl till att vara, men att vara kritisk på orsaker tagna ur luften och med fördommar, det går bort.
+Det verkar helt klart att de amerikanska författarnas bojkott verkar bygga på lika oklara grunder som många i den svenska vänstern och svenska liberaler drivit mot _Charlie Hedbo_, man har helt enkelt vetat för lite om den tidning som man sagt sig vara emot. Jag har inga problem med att man är kritisk mot _Charlie_, det finns det flera skäl till att vara, men att vara kritisk på orsaker tagna ur luften och med fördommar, det går bort.
 
 För mer bakgrund om _Charlie Hebdo_, så kan ni läsa om det i vårt kommande nummer, där vi berättar om tidningens historia, från tidningen Zéro till dagens _Charlie_.
 
