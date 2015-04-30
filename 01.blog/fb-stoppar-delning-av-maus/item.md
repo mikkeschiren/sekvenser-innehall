@@ -1,6 +1,6 @@
 ---
 title: Facebook stoppar delning av artikel om Maus
-date: 23:15 05/30/2015
+date: 23:35 04/30/2015
 taxonomy:
     category: blog
     tag: [facebook]
