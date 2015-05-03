@@ -3,7 +3,7 @@ title: Tintin-kännaren Pierre Sterckx död
 date: 8:15 05/03/2015
 taxonomy:
     category: blog
-    tag: [schweiz, joe sacco]
+    tag: [frankrike, belgien, hergé, sterckx]
 ---
 
 Kritikern, författaren och läraren Pierre Sterckx har avlidit 2 maj, vid en ålder av 79 år.
