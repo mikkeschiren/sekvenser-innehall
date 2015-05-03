@@ -6,7 +6,7 @@ taxonomy:
     tag: [schweiz, joe sacco]
 ---
 
-Kritikern, författaren och läraren Pierre Sterckx har avlidit den 2 maj, vid en ålder av 79 år.
+Kritikern, författaren och läraren Pierre Sterckx har avlidit 2 maj, vid en ålder av 79 år.
 
 ===
 
