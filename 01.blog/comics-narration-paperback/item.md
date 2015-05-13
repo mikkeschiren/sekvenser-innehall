@@ -3,7 +3,7 @@ title: Comics and Narration i paperback
 date: 18:50 05/13/2015
 taxonomy:
     category: blog
-    tag: [publicering, digitalt]
+    tag: [akademiskt, groensteen]
 ---
 
 Thierry Groensteens bok "The System of Comics", har blivit något av ett standardverk om hur tecknade serier hur fungerar, uppföljaren till den är "Comics and Narration".
