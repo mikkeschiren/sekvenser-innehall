@@ -1,6 +1,6 @@
 ---
 title: Ny Corto Maltese ute i september
-date: 13:20 05/14/2015
+date: 08:20 05/15/2015
 taxonomy:
     category: blog
     tag: [casterman, hugo pratt, canales, pellejero, frankrike]
