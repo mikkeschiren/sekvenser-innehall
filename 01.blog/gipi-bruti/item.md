@@ -15,3 +15,5 @@ Bruti ska vara för 2-4 spelare och vara ett snabbt fithing-spel som passar äve
 Bruti ska finansieras genom en crowfundingkampanj tillsammans med Gips franska agent La Bande Destinee, som beräknas starta nu i maj. Spelet planeras att lanseras redan i september i Italien. Om det blir en internationell lansering för framtiden utvisa.
 
 Gipi håller för övrigt på med flera serieprojekt, bland annat serieromanerna _Walker_ och _La terra dei figli_ (sv. Barnlandet).
+
+[Källa](http://www.fumettologica.it/2015/04/dettagli-su-bruti-il-gioco-di-carte-di-gipi-intervista/)
