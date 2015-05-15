@@ -12,6 +12,6 @@ Det är goda tider för europeiska serier på engelska nu, IDW publicerar bland 
 
 I november 2015 kommer den första samlingen,  _Dracula, Frankenstein, and other horror stories_, 440 sidor hårdinbunden. Den kommer sedan följas av ytterligare nio samlingar.  Bokserien sätts ihop med hjälp av bland annat den konsulterande redaktören Manuel Espírito Santo, serieshistorikern Paul Gravett och erotikexperten Tim Pilcher.
 
-I Sverige finns några samlingar utgivna på Epix, bland annat Dracula och två volymer av Valentina.
+I Sverige finns några samlingar utgivna på Epix, bland annat _Dracula_ och två volymer av _Valentina_.
 
 [Källa](http://fantagraphics.com/flog/fantagraphics-finds-paranormal-romance-with-guido-crepax/)
