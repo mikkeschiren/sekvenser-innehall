@@ -3,7 +3,7 @@ title: Rua Viva!
 date: 08:20 05/16/2015
 taxonomy:
     category: blog
-    tag: [frankrike, aaarg!, ]
+    tag: [frankrike, aaarg!, julien loïs, el diablo]
 ---
 
 _Noticias_ är det första album med nya albumserien _Rua Viva!_, och det  är en samling med berättelser som utspelar sig bland de fattigare i Rio. Bland ren misär, knarkkrig och fattigdom försöker människor leva sina liv, och hitta ljuspunkter.
