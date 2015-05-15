@@ -14,3 +14,5 @@ När franska Casterman återlanserar Hugo Pratts serie _Corto Maltese_, så är 
 Med en upplaga på över 300000 exemplar förväntar sig Casterman att förhandsintresset är stort. Serien ska utspela sig tidsmässigt strax efter _Balladen om det salta havet_ (utgiven på Epix).
 
 Canales är kanske främst känd för sin serie _Blacksad_, och Pellejero har publicerat ett flertal böcker sedan han debuterade på sjuttiotalet.
+
+Tillägg: Amerikanska IDW meddelar att när de är klara med att publicera sin serie med Hugo Pratts Cort Maltese på engelska kommer de även att publicera denna nya på engelska.
