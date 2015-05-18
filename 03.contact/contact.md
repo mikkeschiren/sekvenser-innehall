@@ -1,5 +1,6 @@
 ---
 title: Kontakt
-simple_form:
-  token: "token-by-simpleform"
 ---
+
+
+Maila mikkeschiren@hgmail.com.
