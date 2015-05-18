@@ -17,3 +17,5 @@ Måndag är det Lewis Trondheim som tillsammans med Brigitte Findakly gör _Coqu
 Serierna kan även läsas på [webben](http://www.lemonde.fr/bande-dessinee/), men är specialanpassade för att läsas i appen.
 
 [Källa](http://www.bodoi.info/un-strip-chaque-matin-dans-son-smartphone/)
+
+_Bild: James._
