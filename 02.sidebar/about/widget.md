@@ -4,4 +4,4 @@ taxonomy:
     category: sidebar
 ---
 
-Tidskrift om tecknade serier och kultur.
+Tidskrift om tecknade serier och kultur. [Kontakt](mailto:mikkeschiren@gmail.com)
