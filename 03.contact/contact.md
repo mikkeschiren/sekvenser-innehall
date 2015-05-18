@@ -1,6 +1,9 @@
 ---
 title: Kontakt
+taxonomy:
+  category: page
 ---
 
+# Kontakt
 
-Maila mikkeschiren@hgmail.com.
+Maila mikkeschiren@gmail.com.
