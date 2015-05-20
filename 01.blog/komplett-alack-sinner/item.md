@@ -6,7 +6,7 @@ taxonomy:
     tag: [alack sinner, idw, euro comics]
 ---
 
-Kriminalserien "Alack Sinner" skapades av exargentinarna José Muñoz och Carlos Samayo, och första avsnittet publcierades i _Linus_ (Italien) och _Charlie Mensuel_ (Frankrike) 1975.
+Kriminalserien "Alack Sinner" skapades av exargentinarna José Muñoz och Carlos Samayo, och första avsnittet publicerades i _Linus_ (Italien) och _Charlie Mensuel_ (Frankrike) 1975.
 
 ===
 
