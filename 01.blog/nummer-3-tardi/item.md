@@ -6,7 +6,7 @@ taxonomy:
     tag: [frankrike, tardi, sekvenser]
 ---
 
-Nummer tre av Sekvenser som är planerat att komma ut i decemeber 2015, kommer att ha temat Jacques Tardi.
+Nummer tre av Sekvenser som är planerat att komma ut i decemeber 2015, kommer ha temat Jacques Tardi.
 
 ===
 

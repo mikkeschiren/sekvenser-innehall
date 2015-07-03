@@ -1,13 +1,14 @@
 ---
-title: Jacques Tardi tema i nummer tre
-date: 11:25 07/03/2015
+title: Det judiska, tema i nummer två
+date: 10:14 06/05/2015
 taxonomy:
     category: blog
-    tag: [frankrike, tardi, sekvenser]
+    tag: [judiska, david b, schrauwen, sekvenser]
 ---
 
-Nummer tre av Sekvenser som är planerat att komma ut i decemeber 2015, kommer att ha temat Jacques Tardi.
+Nummer två av Sekvenser som är planerat att komma ut i september 2015, kommer att ha temat "det judiska".
 
 ===
 
-Vi söker nu efter essäer om Jacques Tardi och om hans verk. Men även om saker som berör indirekt, som serier om första världskriget eller om serietidningen _(A Suivre)_ eller kanske förlaget Casterman eller franska detektivromaner. Kontakta mikkeschiren@gmail.com om du är intresserad av att medverka.
+Nummer två kommer att fokusera på det judiska - allt ifrån serieskaparna som var med och skapade den amerikanska seriemarkanden till de serieskapare som i dag är aktiva i Israel. Numret kommer även att innehålla intervjuer med David B. och Olivier Schrauwen, och en längre essä av
+Marcos Farrajota om remixen i serieform, och en del annat.
