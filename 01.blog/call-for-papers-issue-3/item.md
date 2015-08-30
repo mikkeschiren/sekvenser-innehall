@@ -14,4 +14,4 @@ Deadline for proposals are 30 September, the finished essay must be sent latest 
 
 _Sekvenser_ stared in may 2015. The first issue had the theme Charlie Hebdo, second issue, out in September has the theme ”The jewish”. All texts are published in Swedish – but we accept essays in English, and we will translate theme to Swedish.
 
-Please send proposals to editor-in-chief: mikkeschiren@gmail.com
+Please send proposals to editor-in-chief: <a href"mailto:mikkeschiren@gmail.com">mikkeschiren@gmail.com</a>.
