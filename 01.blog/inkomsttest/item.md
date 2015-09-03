@@ -1,5 +1,5 @@
 ---
-title: Test för jobbet
+title: Test
 date: 14:30 09/10/2015
 taxonomy:
     category: blog
@@ -10,4 +10,5 @@ Test av iframe
 
 ===
 
-<iframe width ="100%" frameborder="0" scrolling="no" style="height: 100em" id="iframe-income" src="https://usupp.wkstage.se/insurance-widget"></iframe>
+<iframe width ="100%" frameborder="0" scrolling="no" style="height: 100em" id="iframe-income" src="https://usupp.wkstage.se/insurance-widget"></iframe><p>Foo bar</p>
+<p>Bar foo</p>
