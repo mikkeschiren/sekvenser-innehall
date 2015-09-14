@@ -41,4 +41,4 @@ Bilderna är så tydliga de kan bli för mig – de tar ställning för de som b
 Det är inte alltid enkelt att förstå tecknad satir, vi läser in så mycket i bilder som vi själva tolkar, som inte finns där egentligen, och innan man tolkar en bild så behöver man ha på fötterna när det gäller kontext och syfte. Är det någon på fullt allvar som tror att en vänstertidskrift som tagit tydligt ställning för de svagare i samhället skulle driva med en liten oskyldig pojkes död? Nej, skulle väl inte tro det.
 
 
-_Bilder: Copyright Charlie Hebdo.
+_Bilder: Copyright Charlie Hebdo._
