@@ -4,9 +4,12 @@ date: 17:30 09/14/2015
 taxonomy:
     category: blog
     tag: [satir, frankrike, charlie hebdo]
+
 ---
 Så har åter en våg av Twittrare blivit upprörda över Charlie Hebdos satir, och åter verkar människor förstå ganska lite av det som de är upprörda över. Denna gång gäller det två bilder som kommenterar fotot och reaktionerna efter den treårige Aylans död.
+
 ===
+
 Så har åter en våg av Twittrare blivit upprörda över Charlie Hebdos satir, och åter verkar människor förstå ganska lite av det som de är upprörda över. Denna gång gäller det två bilder som kommenterar fotot och reaktionerna efter den treårige Aylans död.
 
 Att många utanför Frankrike har svårt att förstå vilken typ av tidning som Charlie Hebdo är, är i sig inte konstigt – tidningen är väldigt fransk i sin framtoning, och satiren är ofta mer avancerad och mer politiskt laddad än man är van vid i många länder – svensk satir är till exempel extremt mycket mer timid och tillrättalagd med ett fåtal exempel som sticker ut, som exempelvis Pontus Lundkvist och Far & Son.
