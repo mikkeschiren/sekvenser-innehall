@@ -10,8 +10,6 @@ Så har åter en våg av Twittrare blivit upprörda över Charlie Hebdos satir, 
 
 ===
 
-Så har åter en våg av Twittrare blivit upprörda över Charlie Hebdos satir, och åter verkar människor förstå ganska lite av det som de är upprörda över. Denna gång gäller det två bilder som kommenterar fotot och reaktionerna efter den treårige Aylans död.
-
 Att många utanför Frankrike har svårt att förstå vilken typ av tidning som Charlie Hebdo är, är i sig inte konstigt – tidningen är väldigt fransk i sin framtoning, och satiren är ofta mer avancerad och mer politiskt laddad än man är van vid i många länder – svensk satir är till exempel extremt mycket mer timid och tillrättalagd med ett fåtal exempel som sticker ut, som exempelvis Pontus Lundkvist och Far & Son.
 
 Det var denna ganska låga kunskap om vad Charlie Hebdo egentligen är som gjorde att jag ägnade första numret av Sekvenser åt Charlies historia, för att försöka sätta ett sammanhang kring den typ av humor som de producerar – ofta skitig, elak och dum – och lika ofta väldigt politisk.
