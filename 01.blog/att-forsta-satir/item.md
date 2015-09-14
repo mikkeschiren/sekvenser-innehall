@@ -22,7 +22,7 @@ De två bilderna publicerades i numret som har fokus på immigrant-politiken i E
 
 Jag har sett flera satirbilder som berör händelsen vid stranden senaste veckan, en av dem hade ritat av foto och placerat en skolväska på pojkens rygg – för att visa på att han är ett barn som vilket som helst, som likväl kunde vara på väg till skolan. Det är också satir, men mer lågmäld än Charlie Hebdos satir brukar vara.
 
-![Aylan](couv29.jpg)
+![Aylan](aa_couv29.jpg)
 
 Immigrant-numret av Charlie Hebdo pryds på omslaget av en bild teckand av Coco och det föreställer en fransk man som sitter i en fåtölj med fötterna på en annan man med trasiga kläder på alla fyra, texten säger ”Vous êtes ici chez vous!” - ”Känn dig som hemma!”. Anslaget är här tydligt – detta är ett nummer som driver med den europeiska dubbelmoralen och den förda immigrationspolitiken. Man tar tydlig ställning för immigration och migranterna, och mot den hårdföra politiken som drivs för att hålla människor utanför Fort Europa.
 
