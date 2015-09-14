@@ -24,7 +24,7 @@ Jag har sett flera satirbilder som berör händelsen vid stranden senaste veckan
 
 Immigrant-numret av Charlie Hebdo pryds på omslaget av en bild teckand av Coco och det föreställer en fransk man som sitter i en fåtölj med fötterna på en annan man med trasiga kläder på alla fyra, texten säger ”Vous êtes ici chez vous!” - ”Känn dig som hemma!”. Anslaget är här tydligt – detta är ett nummer som driver med den europeiska dubbelmoralen och den förda immigrationspolitiken. Man tar tydlig ställning för immigration och migranterna, och mot den hårdföra politiken som drivs för att hålla människor utanför Fort Europa.
 
-![Alan](alan.jpg)
+![Alan](aylan.jpg)
 
 Den ena av de två bilderna i tidningen föreställer pojken på stranden och en reklamskylt för McDonalds där det står ”2 barnmenyer för priset av 1”. Den bilden kan tolkas åt många olika håll, men att tolka den som att den driver med den döde pojken – det är något som inte finns täckning för i den. Bilden är för mig en tydlig kritik mot den europeiska konsumismen och kapitalismen som är beroende av alla dessa fattiga runt om i världen som drabbas av krig och svält på grund av att vi i Europa vill ha billiga varor, billig el och billig (utländsk) arbetskraft. Det är en omvärldsanalys sammanfattad till en liten bild.
 
@@ -33,7 +33,7 @@ Barn dör för att vi ska ha det bra, enkelt och billigt.
 ![Jesus](jesus.jpg)
 
 Den andra bilden föreställer en godhjärtad jesusfigur som går på vattnet medan pojken drunknar. Texten ovanför bilden lyder ”Beviset för att Europa är kristet”, och den följs med texten under som säger att ”kristna kan gå på vattnet” och ”muslimska barn sjunker”.  Den här bilden är för mig en kraftfull drift med den kristna dubbelmoralen – att vi ser oss själva som godare och bättre än de utanför. Först nu när många ”öppnar sina hjärtan” är det för att ett barn drunknade.
-
+p
 Bilderna är så tydliga de kan bli för mig – de tar ställning för de som behövt dö för den i Europa förda politiken, och driver med det hyckleri som många nu visar.
 
 Det är inte alltid enkelt att förstå tecknad satir, vi läser in så mycket i bilder som vi själva tolkar, som inte finns där egentligen, och innan man tolkar en bild så behöver man ha på fötterna när det gäller kontext och syfte. Är det någon på fullt allvar som tror att en vänstertidskrift som tagit tydligt ställning för de svagare i samhället skulle driva med en liten oskyldig pojkes död? Nej, skulle väl inte tro det.
