@@ -1,5 +1,5 @@
 ---
-title: Satir kräver tanke
+title: Satir kräver tanke, och eftertanke
 date: 17:30 09/14/2015
 taxonomy:
     category: blog
