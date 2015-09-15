@@ -16,13 +16,9 @@ Det var denna ganska låga kunskap om vad Charlie Hebdo egentligen är som gjord
 
 Nu är det många som menar att Charlie Hebdo driver med den döda pojken i det senaste numret av tidningen. Men det känns som om dessa människor inte kan ta till sig ett mer avancerat litterärt text än av slaget ”Ta't lugnt. Ta en Toy”, men ändå missförstå det och bli upprörda för att de känner sig kränkta av de inte får hetsa upp sig.
 
-De två bilderna publicerades i numret som har fokus på immigrant-politiken i Europa. Ett icke förvånande tema då det minst sagt är ett hett ämne, inte minst efter publiceringen av bilden på Alan.
+De två bilderna som människor är så upprörda över publicerades i numret som har fokus på immigrant-politiken i Europa. Ett icke förvånande tema då det minst sagt är ett hett ämne, inte minst efter publiceringen av bilden på Alan.
 
-<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/sv_SE/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/chaunu.fr/posts/994285100623434:0" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/chaunu.fr/posts/994285100623434:0">Posted by <a href="https://www.facebook.com/chaunu.fr">Chaunu Emmanuel</a> on&nbsp;<a href="https://www.facebook.com/chaunu.fr/posts/994285100623434:0">den 3 september 2015</a></blockquote></div></div>
-
-Jag har sett flera satirbilder som berör händelsen vid stranden senaste tiden, en av dem, som bilden ovan av Chaunu Emmanuel, där han placerat en skolväska på pojkens rygg – för att visa på att han är ett barn som vilket som helst, som likväl kunde vara på väg till skolan (Texten "De är tillbaka i skolan"). Det är också satir, men mer lågmäld än Charlie Hebdos satir brukar vara.
-
-![Alan](aa_couv29.jpg)
+![Coco](aa_couv29.jpg)
 
 Immigrant-numret av Charlie Hebdo pryds på omslaget av en bild teckand av Coco och det föreställer en fransk man som sitter i en fåtölj med fötterna på en annan man med trasiga kläder på alla fyra, texten säger ”Vous êtes ici chez vous!” - ”Känn dig som hemma!”. Anslaget är här tydligt – detta är ett nummer som driver med den europeiska dubbelmoralen och den förda immigrationspolitiken. Man tar tydlig ställning för immigration och migranterna, och mot den hårdföra politiken som drivs för att hålla människor utanför Fort Europa.
 
@@ -40,7 +36,13 @@ Bilderna är så tydliga de kan bli för mig – de tar ställning för de som b
 
 ![Satir på tidningen Minute](minute.jpg)
 
-På annan plats i tidningen driver man med hur franska medier rapporterar kring bilden på Alan, som den fransk högertidningen _Minute_, texten säger "En terrorist mindre"
+På annan plats i tidningen driver man med hur franska medier rapporterar kring bilden på Alan, som den fransk extremhöger-tidningen _Minute_, texten säger "En terrorist mindre".
+
+<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/sv_SE/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/chaunu.fr/posts/994285100623434:0" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/chaunu.fr/posts/994285100623434:0">Posted by <a href="https://www.facebook.com/chaunu.fr">Chaunu Emmanuel</a> on&nbsp;<a href="https://www.facebook.com/chaunu.fr/posts/994285100623434:0">den 3 september 2015</a></blockquote></div></div>
+
+
+
+Jag har sett flera satirbilder som berör händelsen vid stranden senaste tiden. En av dem är bilden ovan av Chaunu Emmanuel. Han har placerat en skolväska på pojkens rygg – för att visa på att han är ett barn som vilket som helst, som likväl kunde vara på väg till skolan (Texten "De är tillbaka i skolan"). Det är också satir, men mer lågmäld än Charlie Hebdos satir brukar vara. Trots det blev han likt, Charlei Hebdos tecknare, hotad till livet ganska snart efter han publicerat den.
 
 Det är inte alltid enkelt att förstå tecknad satir, vi läser in så mycket i bilder som vi själva tolkar, som inte finns där egentligen, och innan man tolkar en bild så behöver man ha på fötterna när det gäller kontext och syfte. Är det någon på fullt allvar som tror att en vänstertidskrift som tagit tydligt ställning för de svagare i samhället skulle driva med en liten oskyldig pojkes död? Nej, skulle väl inte tro det.
 
