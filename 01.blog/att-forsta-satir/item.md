@@ -6,7 +6,7 @@ taxonomy:
     tag: [satir, frankrike, charlie hebdo]
 
 ---
-Så har åter en våg av Twittrare blivit upprörda över Charlie Hebdos satir, och åter verkar människor förstå ganska lite av det som de är upprörda över. Denna gång gäller det två bilder som kommenterar fotot och reaktionerna efter den treårige Alans död.
+Så har åter en våg av Twittrare blivit upprörda över Charlie Hebdos satir, och åter verkar människor förstå ganska lite av det som de är upprörda över. Denna gång gäller det två bilder som kommenterar fotot och reaktionerna efter den treårige Alans död. (texten uppdaterad 15/9 8:20)
 
 ===
 
@@ -18,7 +18,9 @@ Nu är det många som menar att Charlie Hebdo driver med den döda pojken i det 
 
 De två bilderna publicerades i numret som har fokus på immigrant-politiken i Europa. Ett icke förvånande tema då det minst sagt är ett hett ämne, inte minst efter publiceringen av bilden på Alan.
 
-Jag har sett flera satirbilder som berör händelsen vid stranden senaste veckan, en av dem hade ritat av foto och placerat en skolväska på pojkens rygg – för att visa på att han är ett barn som vilket som helst, som likväl kunde vara på väg till skolan. Det är också satir, men mer lågmäld än Charlie Hebdos satir brukar vara.
+<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/sv_SE/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/chaunu.fr/posts/994285100623434:0" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/chaunu.fr/posts/994285100623434:0">Posted by <a href="https://www.facebook.com/chaunu.fr">Chaunu Emmanuel</a> on&nbsp;<a href="https://www.facebook.com/chaunu.fr/posts/994285100623434:0">den 3 september 2015</a></blockquote></div></div>
+
+Jag har sett flera satirbilder som berör händelsen vid stranden senaste tiden, en av dem, som bilden ovan av Chaunu Emmanuel, där han placerat en skolväska på pojkens rygg – för att visa på att han är ett barn som vilket som helst, som likväl kunde vara på väg till skolan (Texten "De är tillbaka i skolan"). Det är också satir, men mer lågmäld än Charlie Hebdos satir brukar vara.
 
 ![Alan](aa_couv29.jpg)
 
@@ -33,8 +35,12 @@ Barn dör för att vi ska ha det bra, enkelt och billigt.
 ![Jesus](jesus.jpg)
 
 Den andra bilden föreställer en godhjärtad jesusfigur som går på vattnet medan pojken drunknar. Texten ovanför bilden lyder ”Beviset för att Europa är kristet”, och den följs med texten under som säger att ”kristna kan gå på vattnet” och ”muslimska barn sjunker”.  Den här bilden är för mig en kraftfull drift med den kristna dubbelmoralen – att vi ser oss själva som godare och bättre än de utanför. Först nu när många ”öppnar sina hjärtan” är det för att ett barn drunknade.
-p
+
 Bilderna är så tydliga de kan bli för mig – de tar ställning för de som behövt dö för den i Europa förda politiken, och driver med det hyckleri som många nu visar.
+
+![Satir på tidningen Minute](minute.jpg)
+
+På annan plats i tidningen driver man med hur franska medier rapporterar kring bilden på Alan, som den fransk högertidningen _Minute_, texten säger "En terrorist mindre"
 
 Det är inte alltid enkelt att förstå tecknad satir, vi läser in så mycket i bilder som vi själva tolkar, som inte finns där egentligen, och innan man tolkar en bild så behöver man ha på fötterna när det gäller kontext och syfte. Är det någon på fullt allvar som tror att en vänstertidskrift som tagit tydligt ställning för de svagare i samhället skulle driva med en liten oskyldig pojkes död? Nej, skulle väl inte tro det.
 
