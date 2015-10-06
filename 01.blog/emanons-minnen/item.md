@@ -1,6 +1,6 @@
 ---
 title: Emanons minnen
-date: 20:30 10/06/2015
+date: 20:20 10/06/2015
 taxonomy:
     category: blog
     tag: [shinji kajio, kenji tsuruta, ordbilder, manga, japan, recension]
