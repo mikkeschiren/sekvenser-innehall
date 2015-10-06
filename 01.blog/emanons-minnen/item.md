@@ -11,7 +11,7 @@ Shinji Kajio är en japansk författare som i hemlandet mest gjort sig känd fö
 
 Serieromanen _Emanons minnen_ är en bearbetning av romanen gjord av serieskaparen Kenji Tsuruta. Det var en bearbetning som höll på att stupa innan den knappt hade påbörjats, och det tog flera år för honom att slutföra serien. Ofta när vi får höra om japanska serieskapares arbeten så är det hur mycket de producerar och i vilken hög hastighet. Kenji Tsuruta är något av en motpol till det, och har bland annat kallats för ”redaktörers mardröm”, på grund av han ofta inte håller deadlines eller producerar i den takt som redaktörerna önskar.
 
-![Framsida](a_omslag.jpg)
+![Detalj ur Emanons minnen](emanon.jpg)
 
 Kenji Tsuruta är antagligen mest känd för sin serie _Spirit of Wonder_, som i väst har publicerats i USA på Black Horse. Den finns även som anime med några fristående filmer. Kanske på grund av sin låga produktionstakt och Kenji Tsuruta oförmåga att slutföra serier så har han aldrig riktigt slagit igenom stort, varken här eller i Japan. Men hans _Emanons Minnen_ är mästerlig. Det är en mycket vackert tecknad serieroman med ett väldigt genombearbetat manus. En berättelse om en tillfällig romans på sextiotalet, med en kvinna som kan ha funnits på jorden sedan livet uppstod.
 
