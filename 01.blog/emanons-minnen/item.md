@@ -8,6 +8,7 @@ taxonomy:
 Shinji Kajio är en japansk författare som i hemlandet mest gjort sig känd för sina noveller och romaner som mest rör sig inom det fantastiska, det vill säga science-fiction och fantasy, och han har även skrivit manus för film, TV och teater. _Emanons minnen_ är från början en roman, som senare gav upphov till flera andra berättelser. Emanon är No name baklänges. Den namnlösa är en ung flicka, som inte är fyllda 20, men ändå bär med sig minnen från då det bara fanns mikroorganismer i haven.
 
 ===
+
 Serieromanen _Emanons minnen_ är en bearbetning av romanen gjord av serieskaparen Kenji Tsuruta. Det var en bearbetning som höll på att stupa innan den knappt hade påbörjats, och det tog flera år för honom att slutföra serien. Ofta när vi får höra om japanska serieskapares arbeten så är det hur mycket de producerar och i vilken hög hastighet. Kenji Tsuruta är något av en motpol till det, och har bland annat kallats för ”redaktörers mardröm”, på grund av han ofta inte håller deadlines eller producerar i den takt som redaktörerna önskar.
 
 ![Framsida](a_omslag.jpg)
