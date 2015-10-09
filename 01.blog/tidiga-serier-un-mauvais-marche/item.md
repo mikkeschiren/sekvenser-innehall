@@ -10,7 +10,7 @@ Jag kommer att börja med en serie bloggposter med exempel på tidiga serier, oc
 
 ===
 
-Den enkla skämtserien "Un mauvais Marché", är på sitt simpla vis tidslös, vi förstår skämtet än i dag, och varianter av samma skämt tecknas fortfarande. Jag har tyvärr inte kunnat utläsa tecknarens namn.
+Den enkla skämtserien "Un mauvais Marché" från 1894, är på sitt simpla vis tidslös, vi förstår skämtet än i dag, och varianter av samma skämt tecknas fortfarande. Jag har tyvärr inte kunnat utläsa tecknarens namn.
 
 ![Un mauvais marché](un_mauvais_matche.jpg)
 
