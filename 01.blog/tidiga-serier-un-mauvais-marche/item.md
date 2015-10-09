@@ -1,5 +1,5 @@
 ---
-title: Tidiga serier: Un mauvais marcheé
+title: Tidiga serier: Un mauvais marché
 date: 23:30 10/09/2015
 taxonomy:
     category: blog
