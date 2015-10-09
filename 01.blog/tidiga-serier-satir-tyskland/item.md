@@ -10,7 +10,7 @@ _Simplicissimus_ var en av Europas främsta satidskrifter, och vi hittar en hel 
 
 ===
 
-Denna serie från andra numret av veckotidningen, som utkom i April 1896 har med denna vackert tecknade serie, som jag inte riktigt kan tolka. Jag antar att ljuset är placerat på ett land eller ett område där något hände då, som denna serie kommenterar. Jag lyckas inte heller utlösa vem som är tecknare.
+Denna serie från andra numret av veckotidningen, som utkom i April 1896 har med denna vackert tecknade serie, som jag inte riktigt kan tolka. Jag antar att ljuset är placerat på ett land eller ett område där något hände då, som denna serie kommenterar. Jag lyckas inte heller utläsa vem som är tecknare.
 
 ![Djävlar och hatt](simplicissimus_02.jpg)
 
