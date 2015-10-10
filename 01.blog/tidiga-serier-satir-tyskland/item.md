@@ -1,6 +1,6 @@
 ---
 title: Tidiga serier: Satir över?
-date: 11:30 11/09/2015
+date: 11:30 10/10/2015
 taxonomy:
     category: blog
     tag: [tyskland, simplicissimus, tidiga serier]
