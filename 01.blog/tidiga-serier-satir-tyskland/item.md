@@ -1,6 +1,6 @@
 ---
-title: Tidiga serier: Brinnande ljus
-date: 12:30 11/09/2015
+title: Tidiga serier: Satir över?
+date: 11:30 11/09/2015
 taxonomy:
     category: blog
     tag: [tyskland, simplicissimus, tidiga serier]
@@ -10,7 +10,7 @@ _Simplicissimus_ var en av Europas främsta satidskrifter, och vi hittar en hel 
 
 ===
 
-Denna serie från andra numret av veckotidningen, som utkom i April 1896 har med denna vackert tecknade serie, som jag inte riktigt kan tolka. Jag antar att ljuset är placerat på ett land eller ett område där något hände då, som denna serie kommenterar. Jag lyckas inte heller utläsa vem som är tecknare.
+Denna serie från andra numret av veckotidningen, som utkom i April 1896 har med denna vackert tecknade serie, som jag inte riktigt kan tolka. Jag antar att ljuset är placerat på ett land eller ett område där något hände då, som denna serie kommenterar. Trots att jag inte kan tolka den helt tycker jag ändå att det är väldigt bra exempel på en tidig serie - här finns ett tydligt händelseförlopp mellan rutorna, med ett tydligt slut. Jag lyckas tyvärr inte utläsa vem som är tecknare.
 
 ![Djävlar och hatt](simplicissimus_02.jpg)
 
