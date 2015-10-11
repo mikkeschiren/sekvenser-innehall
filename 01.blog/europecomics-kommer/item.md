@@ -1,12 +1,12 @@
 ---
-title: Eruopecomics ger bort tre album
+title: Europecomics ger bort tre album
 date: 22:00 10/11/2015
 taxonomy:
     category: blog
     tag: [frankrike, gratis, europecomics]
 ---
 
-Europecomics är ett intiativ av främst franska förlag för att öka läsandet av fransk-belgisk serier genom att dels marknadsföra dem under en gemensam flagg, och dels att se till att mer översätts till engelska.
+[Europecomics](http://www.europecomics.com/) är ett intiativ av främst franska förlag för att öka läsandet av fransk-belgisk serier genom att dels marknadsföra dem under en gemensam flagg, och dels att se till att mer översätts till engelska.
 
 ===
 
