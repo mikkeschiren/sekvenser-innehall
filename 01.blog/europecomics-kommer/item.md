@@ -1,6 +1,6 @@
 ---
-title: Tidiga serier: Fantasie
-date: 21:30 10/11/2015
+title: Eruopecomics ger bort tre album
+date: 22:00 10/11/2015
 taxonomy:
     category: blog
     tag: [frankrike, gratis, europecomics]
