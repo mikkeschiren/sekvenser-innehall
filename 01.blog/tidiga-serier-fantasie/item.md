@@ -1,6 +1,6 @@
 ---
 title: Tidiga serier: Fantasie
-date: 21:30 11/10/2015
+date: 21:30 10/11/2015
 taxonomy:
     category: blog
     tag: [frankrike, la jeunesse illustrée, tidiga serier]
