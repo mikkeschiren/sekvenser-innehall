@@ -6,7 +6,7 @@ taxonomy:
     tag: [frankrike, la jeunesse illustrée, tidiga serier]
 ---
 
-_Fantasie_ är ett bra exempel på att att ett avancerat bildberättande existerade i Europa i början av 1900-talet. Serien är skapad av Luc Leguey, som var en franska satirtecknare och serieskapare som tecknade för flera tidningar och tidskrifter i början av 1900-talet, som _Le Gil Blas Illustré, _Pages Folles, _Le Rire_, och _Le Frou-Frou_.
+_Fantasie_ är ett bra exempel på att att ett avancerat bildberättande existerade i Europa i början av 1900-talet. Serien är skapad av Luc Leguey, som var en franska satirtecknare och serieskapare som tecknade för flera tidningar och tidskrifter i början av 1900-talet, som _Le Gil Blas Illustré_, _Pages Folles_, _Le Rire_, och _Le Frou-Frou_.
 
 ===
 
