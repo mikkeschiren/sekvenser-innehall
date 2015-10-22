@@ -6,7 +6,7 @@ taxonomy:
     tag: [sverige, bild & bubbla, recension]
 ---
 
-Något som jag ofta slås av när jag läser _Bild & Bubbla_ är ledare, är där skrivs det ofta om att det är "nu det händer, nu!". Nu i detta nummer, 3/3015, är det som förlag börjat att ge ut översatta serier från franska - något som upprepades även för några år sedan om jag minns rätt (då mitt eget Komika förlag var inblandat). Det är som man hela tiden inväntar att något större ska hända inom seriekulturen, men att det egentligen inte händer. Och att man till nästa nummer hoppas, att nu är det väl ändå som det ska hända.
+Något som jag ofta slås av när jag läser _Bild & Bubbla_ är ledaren, där skrivs det ofta om att det är "nu det händer, nu!". Nu i detta nummer, 3/3015, är det som förlag börjat att ge ut översatta serier från franska - något som upprepades även för några år sedan om jag minns rätt (då mitt eget Komika förlag var inblandat). Det är som man hela tiden inväntar att något större ska hända inom seriekulturen, men att det egentligen inte händer. Och att man till nästa nummer hoppas, att nu är det väl ändå som det ska hända.
 
 ===
 
