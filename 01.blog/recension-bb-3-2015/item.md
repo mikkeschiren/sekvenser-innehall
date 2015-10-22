@@ -23,7 +23,7 @@ Det stora undantaget i numret är Morten Harpers intervju med Alison Bechdel. In
 
 ![dBD](X_dbd.jpg)
 
-_Bild & Bubblas formmässiga kusin_
+_dossier BD, dBD, Bild & Bubblas formmässiga kusin_
 
 Redaktionen gjorde en omgörning av formen inför första numret i år, och det som har varit tydligt är att det nu har blivit mycket tomma vita ytor och ofta ganska intetsägande stora porträttbilder av intervjuade och övriga. Numret går väldigt snabbt att läsa, trots sina 100 sidor. Att man efter omgörningen ser ut som en kopia av franska _dBD_ stjälper snarare än hjälper - där _dBD_ är fullmatad med information och med bra bildredaktörer blir det i den svenska versionen _Bild & Bubbla_ mest bara ett "jaha" med en stor vit hånande yta bredvid.
 
