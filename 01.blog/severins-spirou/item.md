@@ -1,5 +1,5 @@
 ---
-title: Vill se mer av Severins Spirou
+title: Vill gärna se mer av Severins Spirou
 date: 11:02 03/26/2016
 taxonomy:
     category: blog
@@ -17,4 +17,5 @@ Här några sidor med Al Severins Spirou.
 ![Severin i Spirou](severin.jpg)
 ![Kvinnlig Spirou](40db8126-acfb-11e2-9406-2394ead87b90.jpg)
 ![Severin](img-0007.jpg)
-!(Från en booklet som kom med Le Journal de Spirou)(severin-stripbook-1-0a.jpg)
+![Från en booklet som kom med Le Journal de Spirou](severin-stripbook-1-0a.jpg)
+![Från en booklet som kom med Le Journal de Spirou](aaa_severin-stripbook-2-0a.jpg)
