@@ -21,7 +21,7 @@ Under åttiotalet tecknade Pé korta strippar med Spirou för brevsidan i tidnin
 ![Carte Blanche från Spirou](frank-pe-journal-de-spirou-carte-blanche-2-p-2.jpg)
 _Carte Blanch från tidningen Spirou_
 ![Broussaille](d2fe6236b1812b4a6f9e0d530104e5c9.jpg)
-_Presentationsbild av _Broussaille_
+_Från Little Nemo_
 ![Utdrag](spirou-frank-pe-planche-6.jpg)
 _Utdrag ur kommand Spirou-äventyr_
 
