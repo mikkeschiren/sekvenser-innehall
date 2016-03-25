@@ -15,7 +15,7 @@ Frank Pé har arbetat med tidningen _Spirou_ sedan 1973, där han debuterade med
 
 Frank Pé är kanska främst känd i den fransk-belgiska kulturen för serierna _Broussaille_	och _Zoo_, serier där djur och natur spelar en stor roll i serierna - djur och natur är starka teman i hans serier.
 
-Under åttiotalet tecknade Pé korta strippar med Spirou för brevsidan i tidningen, men han har aldrig gjort en längre serie med Spirou, men nu är det dags för det, i den serie med album som vänder sig till lite äldre läsare, som i Sverige har publicerats av förlaget Cobolt, och flera sidor från det kommande albumet ställs ut på CBBD. När albumet publiceras på franska är ännu inte klart vad jag har förstått.
+Under åttiotalet tecknade Pé korta strippar med Spirou för brevsidan i tidningen, men han har aldrig gjort en längre serie med Spirou. Nu är det dock dags för det, i den fristående serie med album som vänder sig till lite äldre läsare, som i Sverige har publicerats av förlaget Cobolt. Flera sidor från det kommande albumet ställs ut på CBBD. När albumet publiceras på franska är ännu inte klart vad jag har förstått. Om det sedan kommer på svenska får framtiden utvisa.
 
 
 ![Carte Blanche från Spirou](frank-pe-journal-de-spirou-carte-blanche-2-p-2.jpg)
