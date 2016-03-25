@@ -8,6 +8,7 @@ taxonomy:
 Vernissagen för den nya Frank Pé utställning på [CBBD i Bryssel]() ställdes in på grund av terrordåden i Bryssel. Men utställning har ändå öppnat, och bland det som ställs ut kan man bland annat se 15 sidor från ett kommande Spirou-album, och Pés tolkning av _Little Nemo_ 
 
 ===
+
 [Frank Pé](http://www.frankpe.com/) föddes 1956 i Belgiska staden Ixelles, och han studerade skulptur på Saint-Luc Institute i Bryssel.
 
 
