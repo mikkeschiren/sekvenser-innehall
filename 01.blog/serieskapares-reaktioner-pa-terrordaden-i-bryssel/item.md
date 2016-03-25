@@ -25,3 +25,6 @@ Flera serieskapare, satirtecknare och illustratörer har på olika sätt reagera
 ![](hommage-bruxelles-godi.jpg)
 ![](tabary-lisible.jpg)
 ![](uri-fink.jpg)
+![](10294512_10208244280732140_5986829419382594158_n.jpg)
+![](11108865_572363276255060_3842098579233553900_n.jpg)
+![](10294512_10208244280732140_5986829419382594158_n.jpg)
