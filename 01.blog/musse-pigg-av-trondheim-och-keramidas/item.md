@@ -11,7 +11,7 @@ Det franska förlaget Glénat publicerar ett antal specialalbum med _Musse Pigg_
 
 Albumet utkom i början av mars, då även ett annat hyllningsalbum släpptes av Bernard Cosey, _Une mystérieuse mélodie : ou comment Mickey rencontra Minnie_.
 
-Nicolas Keramidas har tidigarre arbetat som animatör för Disney, och har tidigare samarbetat med Lewis Trondheim i ett album av serien _Donjon_.
+Nicolas Keramidas har tidigare arbetat som animatör för Disney, och har samarbetat med Lewis Trondheim i ett album av serien _Donjon Monsters_.
 
 
 ![Omslag](70_P1.jpg)
