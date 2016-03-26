@@ -1,5 +1,5 @@
 ---
-title: Dark Horse publicera komplett RanXerox
+title: Dark Horse publicerar komplett RanXerox
 date: 18:45 03/26/2016
 taxonomy:
     category: blog
