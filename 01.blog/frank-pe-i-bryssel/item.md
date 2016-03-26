@@ -5,7 +5,7 @@ taxonomy:
     category: blog
     tag: [spriou, little nemo, pé]
 ---
-Vernissagen för den nya Frank Pé utställning på [CBBD i Bryssel]() ställdes in på grund av terrordåden i Bryssel. Men utställning har ändå öppnat, och bland det som ställs ut kan man bland annat se 15 sidor från ett kommande Spirou-album, och Pés tolkning av _Little Nemo_ 
+Vernissagen för den nya Frank Pé utställning på [CBBD i Bryssel](https://www.comicscenter.net/en/home) ställdes in på grund av terrordåden i Bryssel. Men utställning har ändå öppnat, och bland det som ställs ut kan man bland annat se 15 sidor från ett kommande Spirou-album, och Pés tolkning av _Little Nemo_ 
 
 ===
 
