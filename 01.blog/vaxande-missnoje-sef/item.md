@@ -9,7 +9,7 @@ Föreningen Seriefrämjandets övergång från medlemsförening till centrumbild
 
 ===
 
-Hittills har Serieförmedlingen endast 15 registrerade uppdragstagare, varav tre sitter i föreningens styrelse. Varje år får Seriefrämjandet 200.000 i stöd från staten för centrumbildningen, samt flera andra bidrag genom olika kommunala och statliga instanser. Ett exempel är Seriefrämjandets nya galleriverksamhet i Malmö, Rum för serier, som Malmö kommun stödjer med 120.000 per år, som också är kopplat till centrumverksamheten.
+Hittills har Serieförmedlingen endast 15 registrerade uppdragstagare, varav tre sitter i föreningens styrelse. Varje år får Seriefrämjandet över 200.000 i stöd från staten för centrumbildningen, samt flera andra bidrag genom olika kommunala och statliga instanser. Ett exempel är Seriefrämjandets nya galleriverksamhet i Malmö, Rum för serier, som Malmö kommun stödjer med 120.000 per år, som också är kopplat till centrumverksamheten.
 
 Nu har det framkommit att de uppdrag som kommer in till förmedlingen inte förmedlas direkt till medlemmarna för att de ska kunna söka dem, utan att uppdragen delas ut av Seriefrämjandets verksamhetsledare, Jamil Mani, som också är en av dem som är registrerade för att ta uppdrag genom förmedlingen, och sitter även föreningens styrelse.
 
