@@ -5,7 +5,7 @@ taxonomy:
     category: blog
     tag: [serieförmedlingen, seriefrämjandet, malmö, rum för serier]
 ---
-Föreningen Seriefrämjandets övergång från medlemsförening till centrumbildning har varit långT ifrån smärtfri. Den så kallade serieförmedlingen som ska vara en central del av centrumbildningen – det är ett av centrumbildningarnas huvuduppdrag att försöka skaffa jobb till sina medlemmar – dras med flera problem.
+Föreningen Seriefrämjandets övergång från medlemsförening till centrumbildning har varit långt ifrån smärtfri. Den så kallade serieförmedlingen som ska vara en central del av centrumbildningen – det är ett av centrumbildningarnas huvuduppdrag att försöka skaffa jobb till sina medlemmar – dras med flera problem.
 
 ===
 
