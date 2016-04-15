@@ -21,10 +21,10 @@ _Nedan, utdrag med serier ur numret_
 
 
 
-[Ravard](pandora_n1-ravard-3.jpg)
-[Alfred](pandora_n1-alfred-3.jpg)
-[](IMG_2918.jpg)
-[DeMoor](pandora_n1-demoor_dal-6.jpg)
-[Blutch](blutch-alix-pandora.jpg)
+![Ravard](pandora_n1-ravard-3.jpg)
+![Alfred](pandora_n1-alfred-3.jpg)
+![](IMG_2918.jpg)
+![DeMoor](pandora_n1-demoor_dal-6.jpg)
+![Blutch](blutch-alix-pandora.jpg)
 
 
