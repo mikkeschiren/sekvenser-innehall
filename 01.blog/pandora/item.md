@@ -3,7 +3,7 @@ title: Casterman ger ut ny tidning
 date: 23:10 04/15/2016
 taxonomy:
     category: blog
-    tag: [sekvenser]
+    tag: [frankrike, casterman, tidning]
 ---
 Arton år efter att Casterman la ned sin i dag legendariska tidning _(A Suivire)_ (sv. fortsättnng följer) så kommer man nu med en ny tidning, _Pandora_. Till skillnad från _(A Suivire)_ är det nu avslutade serier som är i fokus. Och det är nog bäst med tanke på utgivningstakten – två nummer per år.
 
