@@ -6,7 +6,7 @@ taxonomy:
     tag: [cooke, dc, vertigo]
 ---
 
-Den kanadensiske serieskaparen Darwyn Cooke har avlidit till följde av en aggressiv form av cancer. Darwyn Cooke var kanske mest känd för sitt arbete med DC och mini-serien _The New Frontier_.
+Den kanadensiske serieskaparen Darwyn Cooke har avlidit till följd av en aggressiv form av cancer. Darwyn Cooke var kanske mest känd för sitt arbete med DC och mini-serien _The New Frontier_.
 
 ===
 
