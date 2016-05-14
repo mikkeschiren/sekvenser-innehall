@@ -6,7 +6,7 @@ taxonomy:
     tag: [cooke, dc, vertigo]
 ---
 
-Den kanadensiske serieskaparen Darwyn Cooke har avlidit till följde av en aggressiv form av cancer. Darwyn Cooke var mest känd för sitt arbete med DC och mini-serien _The New Frontier_.
+Den kanadensiske serieskaparen Darwyn Cooke har avlidit till följde av en aggressiv form av cancer. Darwyn Cooke var kanske mest känd för sitt arbete med DC och mini-serien _The New Frontier_.
 
 ===
 
@@ -17,13 +17,20 @@ I slutet av nittiotalet fick han dock arbete för DC, och den första serien han
 
 ![The New Frontier](dc_new_frontier_dlx_1280.jpg)
 
+_The New Frontier_
+
 Darwyn Cookes kanske mest kända serie är _The New Frontier_, en mini-serie som publicerades av DC 2004, som han både skrev och tecknade. _The New Frontier_ utspelas främst på femtiotalen och binder samman DC:s hjältar från Golden och Silver Age-tiden, med karaktärer som Wonder Woman, Batman, Flash och Green Lantern. Serien är flerfaldigt prisbelönad och finns i ett flertal olika utgåvor, bland annat en delux-utgåva som kom 2015. Den animerade filmen _Justice League: The New Frontier_, baserades på serien, och Cooke var med och skrev manus.
 
 ![Privat bild från middag](DINNER-A-27.jpg)
 
+_Darwyn Cooke på en privat middag_
+
 Darwyn Cooke gjorde ett flertal projekt för DC, och för tidningen _Solo_ (varje nummer var dedikerad till en serieskapare), så gjorde han det femte numret som han 2006 fick en Eisner för bästa enskilda nummer. 2009 började han att adaptera romaner av författaren Richard Stark (pseudonym för Donald E. Westlake), första var _The Hunter_. Det följdes ytterligare tre adaptioner, den sista var _The Score_, samtliga utgivna av IDW.
 
 ![Minutemen](MINMEN_1_05_Groupshot.jpg)
+
+_Minutemen_
+
 Darwyn Cooke skrev och tecknade _Before Watchmen: Minutemen_. _Before Watchmen: Silk Spectre_ som kom ut 2012-2013, skrevs av Cooke och Amanda Conner, som även tecknade.
 
 Med manus av Gilbert Hernandez gjorde Cooke serien _Twilight Children_, som började att ges ut av DC:s etikett Vertigo 2015. 2015 kom även _Graphic Ink: The DC Comics Art Of Darwyn Cooke_, en två kilo tung samling i stort format som verkligen visar vilken fantastisk serieskapare Cooke var. Boken innehåller också ett flertal av alla de omslag som han tecknade för DC.
