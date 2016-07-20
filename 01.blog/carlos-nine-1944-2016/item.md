@@ -24,6 +24,8 @@ Carlos Nine samarbetade ibland tidigt i sin seriekarriär med den likadeles arge
 
 Det var främst som illustratör som Carlos Nine gjorde sig ett namn, hans teckningar och målningar publicerades världen över. Hans illustrationer har brytt sidorna av New Yorker, Playboy, Le Monde och många andra. För sina illustrationer för böcker och reklamkampanjer har han fått flera viktiga priser världen över.
 
+![Tidig serie tillsammans med Trillo](IMG_244.jpg)
+
 Att Carlos Nine fick en internationell karriär är kanske inte bara på grund av hans otroliga bilder, utan även på grund av den nästan eviga ekonomiska kris som Argentina befunnit sig i – han var mer eller mindre var tvungen att hitta uppdrag utanför landet för att kunna försörja sig..
 
 I slutet av åttiotalet nådde hans serier Europa, och han publicerades bland annat i Italien, Spanien och Frankrike i tidningar som _L'echo des Savanes_, _Zona 84_ och _Comic Art_. Först de kortare serierna, men senare även längre berättelser, serier som ofta inte publicerades i hans hemland Argentina, men som fann en publik i främst Europa och Asien. Många av Carlos Nines serier var politiska, och att hans debut i seriebranchen mer eller mindre sammanfaller med militärdiktaturens upphörande i Argentina (1983), är ingen slump. Många av de berättelser som han tecknar, var mer eller mindre omöjliga innan. Politik är ett återkommande ämne (kanske mest renodlat i _Oh merde, les lapins!_ Som gavs ut 2002 och som är en satir över internationell politik), likaså sex.
@@ -34,7 +36,7 @@ Första gången Carlos Nine publicerade i ett album var 1990 i Spanien, i antolo
 
 En av de få serier som finns av Carlos Nine på engelska (på svenska finns inget utgivet) är ett album av _Donjon Monster_, som Carlos Nine tecknade till  manus av *Lewis Trondheim* och *Joann Sfar*, och som har getts ut av amerikanska NBM. Carlos Nine gjorde även en serie till antologin _Little Lit: It was a dark and stormy night_, och en serie av honom publicerades i den amerkanska varianten av _Metal Hurlant_ 2002, _”Spouting Off: The Random Thoughts of Jean-Pierre Dionnet”_.
 
-![Utdrag ur Tropikal Mambo](nine_meurtres_2.jpg)
+![Utdrag ur Meurtres et Chatiments](nine_meurtres_2.jpg)
 
 I år gavs Carlos Nines senaste album ut – _Tropikal Mambo_, som bitvis är mer än illustrerad berättelse än en serie, och där Carlos Nine, trots över sjuttio år gammal, fortfarande förnyar sig. Varje kapitel i boken är tecknad i olika stil. Den handlar om en detektiv i Panama, en man som bryr sig föga om rättvisa, och som föredrar kvinnor och pengar framför något annat. I slutet av boken börjar detektiven konspirera mot författaren till boken, Carlos Nine, och det blir en historia där inte både två inte längre kan få plats – någon av dem måste bort.
 
