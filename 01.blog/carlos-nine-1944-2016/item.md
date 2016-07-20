@@ -16,7 +16,7 @@ De tidiga serierna, som bland annat trycktes i _Fierro_, _Humi_ och _Superhumor_
 
 I den passerade modernismen ligger något av nyckeln till Carlos Nines värld – med en nästan nostalgisk bild av en tid som inte längre finns. En underlig värld som befolkas av människor och djur, eller människoliknade djur, i alla möjliga och omöjliga former. De tidiga serierna kan inspirationen hittas i det tidiga 1900-talets serieexperiment, men snart fann han en stil som var hans egen, ofta blandtekniker – blyerts, akvarell, tusch osv.
 
-![Alice i underlandet](Alicia-1,jpg)
+![Alice i underlandet](Alicia-1.jpg)
 
 _Tolkning av Alice i Underlandet_
 
