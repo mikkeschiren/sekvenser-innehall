@@ -32,6 +32,8 @@ Första gången Carlos Nine publicerade i ett album var 1990 i Spanien, i antolo
 
 En av de få serier som finns av Carlos Nine på engelska (på svenska finns inget utgivet) är ett album av _Donjon Monster_, som Carlos Nine tecknade till  manus av *Lewis Trondheim* och *Joann Sfar*, och som har getts ut av amerikanska NBM. Carlos Nine gjorde även en serie till antologin _Little Lit: It was a dark and stormy night_, och en serie av honom publicerades i den amerkanska varianten av _Metal Hurlant_ 2002, _”Spouting Off: The Random Thoughts of Jean-Pierre Dionnet”_.
 
+![Utdrag ur Tropikal Mambo](nine_meurtres_2.jpg)
+
 I år gavs Carlos Nines senaste album ut – _Tropikal Mambo_, som bitvis är mer än illustrerad berättelse än en serie, och där Carlos Nine, trots över sjuttio år gammal, fortfarande förnyar sig. Varje kapitel i boken är tecknad i olika stil. Den handlar om en detektiv i Panama, en man som bryr sig föga om rättvisa, och som föredrar kvinnor och pengar framför något annat. I slutet av boken börjar detektiven konspirera mot författaren till boken, Carlos Nine, och det blir en historia där inte både två inte längre kan få plats – någon av dem måste bort.
 
 Carlos Nines värld befolkad av sextörstande kvinnor, förvirrade korrumperade ankor i en svunnen tid försvinner inte ut i marginalen för att Carlos Nine nu inte längre finns ibland oss, han skapade en värld som vi närsomhelst åter kan (och bör) besöka, och förhoppningsvis kommer fler av hans serier av översätta till engelska så att ännu fler kan få möjlighet att upptäcka dem.
