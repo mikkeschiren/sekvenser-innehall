@@ -11,7 +11,9 @@ Första numret av skräck- och äventyrsserien Dylan Dog utkom i Italien i mitte
 ===
 
 **Titel**: _Dylan Dog: Hellborn_
+
 **Utgivning**: Ades Media 2015
+
 **Språk**: Svenska
 
 Albumet _Hellborn_ är något annorlunda en en normal Dylan Dog-berättelse  – denna löper på över 250 sidor, där de ordinarie berättelserna landar på runt 90 sidor, och klassar väl in på benämningen serieroman.
