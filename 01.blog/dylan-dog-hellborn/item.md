@@ -1,6 +1,6 @@
 ---
 title: Dylan Dog: Hellborn
-date: 16:33 07/21/2015
+date: 16:33 07/21/2016
 taxonomy:
     category: blog
     tag: [italien, sverige, recension, dylan dog]
