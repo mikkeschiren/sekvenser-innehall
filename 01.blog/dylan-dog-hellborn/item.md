@@ -20,7 +20,7 @@ Titelns Hellborn är en fängelseö vid den brittiska kusten där livstidsfånga
 
 Bloch är på väg på en välförtjänt semester, och skickar sin vän mardrömsdetektiven Dylan Dog till Hellborn för att försöka hjälpa Kitson. Dylan Dog tas dock inte emot med en varm famn av övriga ledningen på fängelset. Och snart är Dylan Dog fast i en mardrömsvärld som han inte rår sig på. Hellborn är så mycket mer än ett fängelse, det verkar som om ondskan själv är dess nervsystem.
 
-![Orginalsida ur serien](original_sida.jpg) _En orginalsida ur Hellborn_.
+![Orginalsida ur serien](orginal_sida.jpg) _En orginalsida ur Hellborn_.
 
 Till skillnad från ett normalt äventyr med Dylan Dog, som ofta är ganska rappa och snabbt avklarade, där man sällan kanske aldrig riktigt känner känslan av skräck, så när man här i _Hellborn_ mer tid på sig så är det lättare, det blir mer psykologi än vad som vanligtvis får plats, och man kan  känna den fruktan som upplevs på fängelseön.
 
